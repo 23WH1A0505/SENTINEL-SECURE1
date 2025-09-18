@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 *.pyo
@@ -10,3 +11,8 @@ __pycache__/
 .idea/
 .vscode/
 .DS_Store
+=======
+.env
+__pycache__/
+*.pyc
+>>>>>>> a021eaa8ac9db5356913736c215ced5d36de85c0
