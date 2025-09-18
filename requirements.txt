@@ -1,0 +1,7 @@
+gradio
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+pypdf
+requests
